@@ -1,3 +1,2 @@
-# LiaoNingMobile-Pipeline-Demo
-LIAON-1 Init Pipeline 
-LIAON-2 Update   
+# Maven-Pipeline-Demo
+L1 Init Pipeline 
