@@ -1,3 +1,3 @@
 # Maven-Pipeline-Demo
-L1 Init Project
-L2 Update
+MVN-1 Init Project
+MVN-2 Update
